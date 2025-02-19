@@ -12,3 +12,4 @@ Worked on a prototype for the logger but I think I'll try something better later
 ### 02/18/25, 
 Wrote another implementation of my logger header because I don't have faith in the orginal.
 At some point today I want to work on the ecrpytion but I think digital logic prelab might take a long time to finish.
+Added INSTRUCTIONS.md so I'm not going between docs nonstop
